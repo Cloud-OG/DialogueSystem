@@ -1,11 +1,5 @@
 # 基于Excel的对话系统
 
-status: Published
-type: Post
-date: 2024/10/06
-
-[GitHub - Cloud-OG/DialogueSystem: Unity对话系统](https://github.com/Cloud-OG/DialogueSystem)
-
 ![截屏2024-10-06 18.59.06.png](%E5%9F%BA%E4%BA%8EExcel%E7%9A%84%E5%AF%B9%E8%AF%9D%E7%B3%BB%E7%BB%9F%20117b58d050e380c2a071cd7f02fb8819/%25E6%2588%25AA%25E5%25B1%258F2024-10-06_18.59.06.png)
 
 这个对话系统的核心是DialogueCanvas预制体和Talkable脚本。
