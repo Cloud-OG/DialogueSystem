@@ -1,6 +1,7 @@
 # 基于Excel的对话系统
 
-![截屏2024-10-06 18.59.06.png](%E5%9F%BA%E4%BA%8EExcel%E7%9A%84%E5%AF%B9%E8%AF%9D%E7%B3%BB%E7%BB%9F%20117b58d050e380c2a071cd7f02fb8819/%25E6%2588%25AA%25E5%25B1%258F2024-10-06_18.59.06.png)
+<img width="231" alt="%E6%88%AA%E5%B1%8F2024-10-06_18 59 06" src="https://github.com/user-attachments/assets/298b8068-d909-44ca-8296-7f6c870f5ac4">
+
 
 这个对话系统的核心是DialogueCanvas预制体和Talkable脚本。
 
@@ -17,4 +18,4 @@
 
 Talkable即可对话对象。每个可对话对象都应挂载此脚本，并为对话选项条UI设置合适的显示名称，同时指定包含对话内容的.xlsx表格文件。表格格式如下：
 
-![image.png](%E5%9F%BA%E4%BA%8EExcel%E7%9A%84%E5%AF%B9%E8%AF%9D%E7%B3%BB%E7%BB%9F%20117b58d050e380c2a071cd7f02fb8819/image.png)
+![image](https://github.com/user-attachments/assets/3f630869-9ef6-4369-87ef-1dcd29bad524)
