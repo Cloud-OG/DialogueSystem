@@ -1,6 +1,12 @@
-# DialogueSystem
-Unity对话系统
-![截屏2024-10-06 18.59.06.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/62ea150e-ff98-40ae-986e-7a386289383f/41e4d66a-7449-44b4-9e5b-b01434300871/%E6%88%AA%E5%B1%8F2024-10-06_18.59.06.png)
+# 基于Excel的对话系统
+
+status: Published
+type: Post
+date: 2024/10/06
+
+[GitHub - Cloud-OG/DialogueSystem: Unity对话系统](https://github.com/Cloud-OG/DialogueSystem)
+
+![截屏2024-10-06 18.59.06.png](%E5%9F%BA%E4%BA%8EExcel%E7%9A%84%E5%AF%B9%E8%AF%9D%E7%B3%BB%E7%BB%9F%20117b58d050e380c2a071cd7f02fb8819/%25E6%2588%25AA%25E5%25B1%258F2024-10-06_18.59.06.png)
 
 这个对话系统的核心是DialogueCanvas预制体和Talkable脚本。
 
@@ -13,12 +19,8 @@ Unity对话系统
 5. 点击进入下一句对话
 6. 文本全部读完后，关闭UI显示
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/62ea150e-ff98-40ae-986e-7a386289383f/81271614-47e0-4ec2-9595-a5ff8a5c6d64/image.png)
-
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/62ea150e-ff98-40ae-986e-7a386289383f/73300382-c63a-459f-a465-f38e6b21556a/image.png)
-
 使用指南：要使用此对话系统，游戏场景中必须存在DialogueCanvas对象。如需扩展Canvas内部、增加其他系统的UI，可以在原有基础上新建Panel。对话系统的UI应放在对话系统的Panel下，商店系统的UI则放在商店系统的Panel下。
 
 Talkable即可对话对象。每个可对话对象都应挂载此脚本，并为对话选项条UI设置合适的显示名称，同时指定包含对话内容的.xlsx表格文件。表格格式如下：
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/62ea150e-ff98-40ae-986e-7a386289383f/0b76da97-be8d-4af4-a9fc-1ebbab33d44c/image.png)
+![image.png](%E5%9F%BA%E4%BA%8EExcel%E7%9A%84%E5%AF%B9%E8%AF%9D%E7%B3%BB%E7%BB%9F%20117b58d050e380c2a071cd7f02fb8819/image.png)
