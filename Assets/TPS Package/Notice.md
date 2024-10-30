@@ -1,0 +1,5 @@
+# 简介
+这是一个第三人称控制器，通过调整PlayerAimCamera的ShoulderOffset来控制玩家视角镜头,可以实现各种类型的玩家视角。
+
+在使用之前，请确保你的U3D项目采用的是UniversalRenderPipeline(URP),
+并且提前在Package Manager中导入了InputSystem和Cinemachine的Package文件。
